@@ -1,0 +1,14 @@
+C:\Users\Martin Dimitrov\Downloads\HouseRentingSystemApp-martinD\HouseRentingSystemApp-martinD\HouseRentingSystemApi.Data\bin\Debug\net8.0\HouseRentingSystemApi.Data.deps.json
+C:\Users\Martin Dimitrov\Downloads\HouseRentingSystemApp-martinD\HouseRentingSystemApp-martinD\HouseRentingSystemApi.Data\bin\Debug\net8.0\HouseRentingSystemApi.Data.runtimeconfig.json
+C:\Users\Martin Dimitrov\Downloads\HouseRentingSystemApp-martinD\HouseRentingSystemApp-martinD\HouseRentingSystemApi.Data\bin\Debug\net8.0\HouseRentingSystemApi.Data.dll
+C:\Users\Martin Dimitrov\Downloads\HouseRentingSystemApp-martinD\HouseRentingSystemApp-martinD\HouseRentingSystemApi.Data\bin\Debug\net8.0\HouseRentingSystemApi.Data.pdb
+C:\Users\Martin Dimitrov\Downloads\HouseRentingSystemApp-martinD\HouseRentingSystemApp-martinD\HouseRentingSystemApi.Data\obj\Debug\net8.0\HouseRentingSystemApi.Data.csproj.AssemblyReference.cache
+C:\Users\Martin Dimitrov\Downloads\HouseRentingSystemApp-martinD\HouseRentingSystemApp-martinD\HouseRentingSystemApi.Data\obj\Debug\net8.0\HouseRentingSystemApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin Dimitrov\Downloads\HouseRentingSystemApp-martinD\HouseRentingSystemApp-martinD\HouseRentingSystemApi.Data\obj\Debug\net8.0\HouseRentingSystemApi.Data.AssemblyInfoInputs.cache
+C:\Users\Martin Dimitrov\Downloads\HouseRentingSystemApp-martinD\HouseRentingSystemApp-martinD\HouseRentingSystemApi.Data\obj\Debug\net8.0\HouseRentingSystemApi.Data.AssemblyInfo.cs
+C:\Users\Martin Dimitrov\Downloads\HouseRentingSystemApp-martinD\HouseRentingSystemApp-martinD\HouseRentingSystemApi.Data\obj\Debug\net8.0\HouseRentingSystemApi.Data.csproj.CoreCompileInputs.cache
+C:\Users\Martin Dimitrov\Downloads\HouseRentingSystemApp-martinD\HouseRentingSystemApp-martinD\HouseRentingSystemApi.Data\obj\Debug\net8.0\HouseRentingSystemApi.Data.dll
+C:\Users\Martin Dimitrov\Downloads\HouseRentingSystemApp-martinD\HouseRentingSystemApp-martinD\HouseRentingSystemApi.Data\obj\Debug\net8.0\refint\HouseRentingSystemApi.Data.dll
+C:\Users\Martin Dimitrov\Downloads\HouseRentingSystemApp-martinD\HouseRentingSystemApp-martinD\HouseRentingSystemApi.Data\obj\Debug\net8.0\HouseRentingSystemApi.Data.pdb
+C:\Users\Martin Dimitrov\Downloads\HouseRentingSystemApp-martinD\HouseRentingSystemApp-martinD\HouseRentingSystemApi.Data\obj\Debug\net8.0\HouseRentingSystemApi.Data.genruntimeconfig.cache
+C:\Users\Martin Dimitrov\Downloads\HouseRentingSystemApp-martinD\HouseRentingSystemApp-martinD\HouseRentingSystemApi.Data\obj\Debug\net8.0\ref\HouseRentingSystemApi.Data.dll
