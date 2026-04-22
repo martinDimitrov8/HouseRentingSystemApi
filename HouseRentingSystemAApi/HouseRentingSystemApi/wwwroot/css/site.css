@@ -1,0 +1,21 @@
+body {
+    background: #f5f7fb;
+}
+
+.hero {
+    background: linear-gradient(120deg, #0d6efd, #6610f2);
+    color: #fff;
+}
+
+.house-card img {
+    height: 220px;
+    object-fit: cover;
+}
+
+#detailsBody img {
+    width: 100%;
+    border-radius: 0.5rem;
+    margin-bottom: 1rem;
+    max-height: 420px;
+    object-fit: cover;
+}
